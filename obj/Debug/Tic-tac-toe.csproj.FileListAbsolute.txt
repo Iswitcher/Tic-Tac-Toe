@@ -1,0 +1,11 @@
+D:\Users\Iswitcher\Google Drive\C#_workspace\Tic-tac-toe\Tic-tac-toe\bin\Debug\Tic-tac-toe.exe.config
+D:\Users\Iswitcher\Google Drive\C#_workspace\Tic-tac-toe\Tic-tac-toe\bin\Debug\Tic-tac-toe.exe
+D:\Users\Iswitcher\Google Drive\C#_workspace\Tic-tac-toe\Tic-tac-toe\bin\Debug\Tic-tac-toe.pdb
+D:\Users\Iswitcher\Google Drive\C#_workspace\Tic-tac-toe\Tic-tac-toe\obj\Debug\Tic-tac-toe.exe
+D:\Users\Iswitcher\Google Drive\C#_workspace\Tic-tac-toe\Tic-tac-toe\obj\Debug\Tic-tac-toe.pdb
+C:\Users\mmerger\Google Диск\C#_workspace\Tic-tac-toe\Tic-tac-toe\bin\Debug\Tic-tac-toe.exe.config
+C:\Users\mmerger\Google Диск\C#_workspace\Tic-tac-toe\Tic-tac-toe\obj\Debug\Tic-tac-toe.exe
+C:\Users\mmerger\Google Диск\C#_workspace\Tic-tac-toe\Tic-tac-toe\obj\Debug\Tic-tac-toe.pdb
+C:\Users\mmerger\Google Диск\C#_workspace\Tic-tac-toe\Tic-tac-toe\bin\Debug\Tic-tac-toe.exe
+C:\Users\mmerger\Google Диск\C#_workspace\Tic-tac-toe\Tic-tac-toe\bin\Debug\Tic-tac-toe.pdb
+C:\Users\mmerger\Google Диск\C#_workspace\Tic-tac-toe\Tic-tac-toe\obj\Debug\Tic-tac-toe.csprojResolveAssemblyReference.cache
